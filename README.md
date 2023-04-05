@@ -10,10 +10,10 @@ Machine Learning
 
 <h3>Evaluation of different models:</h3>
 
-* In our project, we evaluated the performance of different machine learning models such as K-means, random forest, decision tree, and SVM.
+* In our project, we evaluated the performance of different machine learning models such as K-means, random forest, decision tree, SVM and CNN.
 * To evaluate the performance, you calculated the accuracy of each model on the MNIST fashion dataset.
 * The accuracy of a model refers to the percentage of correctly classified instances out of the total instances in the dataset.
-* From your results, SVM had the highest accuracy of 0.91, while K-means had the lowest accuracy of 0.68.
+* From your results, CNN had the highest accuracy of 0.91, while K-means had the lowest accuracy of 0.68.
 * The choice of the model depends on the problem and the dataset. Therefore, it is essential to evaluate the performance of different models before selecting the best one for the task.
 
 <h3>Drawbacks of using K-means on images:</h3>
